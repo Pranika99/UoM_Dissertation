@@ -7,10 +7,13 @@ Welcome to the project repository that investigates the field of Graph-based Sem
 The aim is to understand important role of regularity of solutions in Graph Laplacian learning and how p-Laplace learning can help to improve the smoothness of Laplacian learning solutions, especially when only a few labelled data points are available. It closely examines the Laplace learning approach which spreads labels across the graph using a harmonic extension mechanism. However, in case of a very low label rate, the method leads to the formation of “spikes” exhibiting irregularity of solutions.
 
 # Dataset
-The experimentation uses the FashionMNIST dataset for the analysis. Link to dataset- https://github.com/zalandoresearch/fashion-mnist
+The experimentation uses the FashionMNIST dataset for the analysis. 
+
+Link to dataset- https://github.com/zalandoresearch/fashion-mnist
 
 # Package and Version
 GraphLearning package- 1.2.7
+
 Link to the GraphLearning package- https://github.com/jwcalder/GraphLearning
 
 # Methodology
